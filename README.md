@@ -15,11 +15,12 @@ https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.0.1
 - Selecione o método ``POST``
 - Em body selecione ``JSON``
 - Exemplo de estrutura JSON utilizada por mim.
-#Caminho utilizado para a rota de users
+  
+# Caminho utilizado para a rota de users
 ```
 http://localhost:8080/users/
 ```
-#Exemplo de JSON utilizado por mim para fazer o POST.
+# Exemplo de JSON utilizado por mim para fazer o POST.
 ```
 {
     "name": "xxx",
