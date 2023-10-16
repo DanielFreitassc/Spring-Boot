@@ -28,7 +28,7 @@ http://localhost:8080/users/
     "password": "xxx"
 }
 ```
-# Aqui foi utilizado outro caminho.
+# Aqui foi utilizado outro caminho para gerar uma tarefa para o usuário.
 ```
 http://localhost:8080/tasks/
 ```
