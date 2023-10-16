@@ -42,3 +42,6 @@ http://localhost:8080/tasks/
     "idUser": "12999827-0edf-466e-8d6a-4c3caf37b9fe"
 }
 ```
+# Utilizar o Banco de dados em memória H2
+Url para acesar o banco de dados.
+```http://localhost:8080/h2-console```
